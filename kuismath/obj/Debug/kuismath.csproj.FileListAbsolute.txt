@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\kuismath\kuismath\bin\Debug\kuismath.exe.config
+C:\Users\Lenovo\source\repos\kuismath\kuismath\bin\Debug\kuismath.exe
+C:\Users\Lenovo\source\repos\kuismath\kuismath\bin\Debug\kuismath.pdb
+C:\Users\Lenovo\source\repos\kuismath\kuismath\obj\Debug\kuismath.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\kuismath\kuismath\obj\Debug\kuismath.Form1.resources
+C:\Users\Lenovo\source\repos\kuismath\kuismath\obj\Debug\kuismath.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\kuismath\kuismath\obj\Debug\kuismath.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\kuismath\kuismath\obj\Debug\kuismath.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\kuismath\kuismath\obj\Debug\kuismath.exe
+C:\Users\Lenovo\source\repos\kuismath\kuismath\obj\Debug\kuismath.pdb
